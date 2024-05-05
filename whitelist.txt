@@ -87,3 +87,4 @@ simple.ripley.com.pe#@#.dfp-ad-unit
 @@||device-messaging-na.amazon.com
 @@||s3-eu-west-1.amazonaws.com
 @@||us-east-1.amazonaws.com
+@@||audio-ak-spotify-com.akamaized.net^$important
