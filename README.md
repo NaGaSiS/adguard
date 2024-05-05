@@ -1,0 +1,2 @@
+# adguard
+White List
