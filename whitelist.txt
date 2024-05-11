@@ -88,3 +88,7 @@ simple.ripley.com.pe#@#.dfp-ad-unit
 @@||s3-eu-west-1.amazonaws.com
 @@||us-east-1.amazonaws.com
 @@||audio-ak-spotify-com.akamaized.net^$important
+@@||de.ots.io.mi.com
+@@||de.ots.io.mi.com
+@@||de.ott.io.mi.com
+
